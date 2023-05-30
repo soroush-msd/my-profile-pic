@@ -1,2 +1,2 @@
 # my-profile-pic
-My Profile Pic in Haskell
+My GitHub Profile Picture in Haskell
